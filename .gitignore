@@ -28,6 +28,7 @@ ehthumbs.db
 # Build results
 [Ll]ibrary/
 [Ll]ibrary/*
+Logs/*
 [Tt]emp/
 [Tt]emp/*
 [Aa]ssets/AssetStoreTools*
